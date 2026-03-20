@@ -18,12 +18,12 @@ export default function App() {
 function About() {
   return (
     <section className="p-12 bg-gray-950 text-center">
-      <h2 className="text-4xl font-bold mb-2 text-yellow-400">JBL TOPOGRAFÍA</h2>
+      <h2 className="text-4xl font-bold mb-2 text-yellow-400">J.B.L. TOPOGRAFÍA</h2>
       <p className="text-xl mb-6 text-yellow-300">Precisión que construye confianza</p>
       <div className="flex flex-col md:flex-row gap-8 justify-center mb-10">
         <div className="flex-1 bg-gray-900 rounded-xl p-6 border border-yellow-500/20">
           <h3 className="text-2xl font-semibold mb-2 text-yellow-400">¿Quiénes somos?</h3>
-          <p className="mb-4 text-gray-300">En JBL Topografía brindamos servicios especializados en topografía convencional, batimetrías y diseños viales, apoyados en tecnología de última generación y metodologías que garantizan alta precisión, confiabilidad y cumplimiento.</p>
+          <p className="mb-4 text-gray-300">En J.B.L. Topografía brindamos servicios especializados en topografía convencional, batimetrías y diseños viales, apoyados en tecnología de última generación y metodologías que garantizan alta precisión, confiabilidad y cumplimiento.</p>
           <p className="mb-4 text-gray-300">Nuestra mayor carta de presentación son más de 10 años de experiencia y la satisfacción de clientes y proyectos desarrollados a nivel nacional. Ejecutamos cada trabajo con rigor técnico, optimizando tiempos de campo y entrega, para ofrecer resultados claros, útiles y oportunos para la toma de decisiones.</p>
         </div>
         <div className="flex-1 bg-gray-900 rounded-xl p-6 border border-yellow-500/20">
